@@ -1,0 +1,294 @@
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b0eac005-69b1-4927-b6b8-db621c176d04","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:17.0266637Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:17.0266637Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"b0217e00-dfe2-4d07-a3df-d11924c68980"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"a72d6d95-b2a9-4cce-a084-52f30c6aeec2","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:19.1362531Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:19.1362531Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"24dbeccc-6cc5-4d7a-85b3-5688dc252ee1"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"e1cf8e13-bbdc-4a46-b611-9cc48f704869"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b442d7ed-79c3-46de-b598-b0c735652e93","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:22.5035217Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:22.5035217Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"70ddb580-3c4f-42a4-9be6-7551c7f0377d"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"44442ef3-2187-4ff7-b45f-6fd7964c4db3"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"9db267e6-8acb-4d40-a670-3c297529276a"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"c2b0bf4b-06c5-427a-bb43-2166f64ad57d"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"bfecf0c5-1804-47ea-ab73-49eea68b65a6"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"7a7940bb-6aba-4e94-85bf-49847907af21","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:29.1300414Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:29.1300414Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"0671545f-55ee-4e2d-a1d8-2c7fd36c0477","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:30.0016649Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:30.0016649Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"90d08192-5964-4532-be7c-3b5152458613","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:31.1190845Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:31.1190845Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"38a1925b-d291-489a-94d5-8ce15bcfe125"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"84529479-b8b7-4f08-a7d9-2334639001f0"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b570c8e5-fee9-4252-860f-b10975cc3b36","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:33.9685918Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:33.9685918Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"0139b0c7-3b46-4be7-baea-be8afddf7334"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"f7bbbd13-a142-4d11-9f94-fb41cf46a8a7"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"6e030b5f-1053-49ff-a44c-a6f44bff567d","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:36.8005086Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:36.8005086Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"29511afb-b3e7-4c6d-b1a9-7d2676a7dc1d"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6a029a87-ace1-42d7-9ee8-34c69edd9b90"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"0abb28be-361c-4d32-93d4-5d9c018f94d6"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"3f4662df-f5f1-496d-8922-6c3109f10a7b"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"d8420ef2-8ee8-4107-b3f5-7f9f6aa02c54"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"e0cc9a01-9d38-41b6-87ef-45ff7f04e508"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"38c6c827-925c-423e-be60-2b24583420b1"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"e1a2be23-0c5e-4865-8a2f-e0fc457427c4"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"d99af761-aa4a-464d-a62c-05b38d1aa55c"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"846e39ba-7f70-4a75-8c39-221a230ed5c8","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:45.0948171Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:45.0948171Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"cb141e29-4f07-469a-bbde-115b43e5e771"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"e1a8b910-d82b-4d55-9c62-ef52e42cac0d","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:46.8867444Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:46.8867444Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"575de844-c080-4aa5-90af-c05833c031f3"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"5b4ad4a0-8d02-4e51-ba95-5081b95fd74f","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:48.5276772Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:48.5276772Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"30044dac-4bfc-4f41-b9ff-72281b84ec58"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b6f25387-1efa-459b-9599-ec302bde1ed6","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:50.3668979Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:50.3668979Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"e4c359f4-c40e-416e-8e7b-60dac0724243","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:51.1721706Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:51.1721706Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"98593866-d1e6-46ca-aa9f-cc8aab14eb45"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"4949aac7-8fd5-49d4-ab3c-680c7d783c38"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"3a8f7d88-1e1c-464e-99fa-a749aa177473","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:53.9547067Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:53.9547067Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"cab7c37b-d6a2-460b-85f0-f82a94c001d6","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:55.3752037Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:55.3752037Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"68b88e4a-de77-4d89-84d4-62dd7505ce56","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:56.4396472Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:56.4396472Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"849d0acf-2d03-48a4-b048-9c8d6f5242ee"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"d7849356-a656-4a76-82ea-a093a36a0e12","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:58.3943384Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:58.3943384Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"e038ec95-fd6b-4163-8cac-3a5529cf6327","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:01:59.6506819Z","lastUpdateDateTimeUtc":"2022-07-19T07:01:59.6506819Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b48ec912-2065-4738-932f-e4adba5b903b","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:00.9173702Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:00.9173702Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6d37d936-0e29-408e-8023-69dc565e88fe"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"74eae101-844d-4509-a8bf-9febdf44e10d"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"427518c7-e004-480b-a472-3bd3508ad653"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"27a16b1d-f5ee-4c9a-b620-d2aff13b2efd","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:05.221924Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:05.221924Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"2213d74c-e83e-42e1-8d5d-fb0a3e596b63","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:06.1396877Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:06.1396877Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"38b40c39-20aa-4c18-b9ea-d6973a456be7"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"2d4d1638-eee1-4eb3-9b4b-6b9befbfd959","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:07.7286668Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:07.7286668Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"0be3ee40-6a90-4293-aad0-8dcef623a3d2","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:08.6399674Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:08.6399674Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"51af7b6c-d98c-4b6c-a277-365e22c57b8e"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"2a782eae-cbc7-4bd5-8ba3-3454aa77f232","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:10.2103973Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:10.2103973Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"3bff86c6-89c9-41b9-b8cc-6c9fd840e215"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6b71048e-940e-4d77-9137-c055fbe9f039"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"289ef8ee-b6fa-4d12-84f2-74065f1b4c29","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:12.5491304Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:12.5491304Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"83731f81-5e7a-4c52-9f63-7dd0e3f30bf3","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:13.495671Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:13.495671Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"515c49b1-c93c-4dd6-a575-3a3748c7b971"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"423bc502-0f1a-47ec-a255-462f8cc8c0ab"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"b583dd12-3a79-4966-beba-14c9e5649b28"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"79e5388f-2581-469c-8d39-f27b0f452444"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"8dbc4895-0659-4ecc-9b56-abab5396e937","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:17.4941046Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:17.4941046Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"3a95cfe2-7648-480e-9798-71411be9723a"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"eea37460-9ae7-4f14-87cf-0319bd21d9b4","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:19.160427Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:19.160427Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"ccf7ec24-0ace-4739-8907-112b950bcb31"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"57f107d4-404e-489c-a6ba-33ea50ef2b38","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:20.7320178Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:20.7320178Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"a76e0e79-22ac-4954-8e0a-5a941b553aa0","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:21.5910721Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:21.5910721Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"9607ae52-72cc-482c-9705-a4a56c8a9600","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:22.5278419Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:22.5278419Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"8e2a4943-b81c-46f4-80af-8e040fd53d72","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:23.5118549Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:23.5118549Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"cf2793a6-fa50-45d4-be68-2c222de0ccd1","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:24.3529843Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:24.3529843Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"d0f07774-c889-4bea-9ca7-2eb64354167e","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:25.5689463Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:25.5689463Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"5688429d-50e1-463b-a69d-7bf71f673a5f"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"fa77d5fc-30d9-46e4-bf50-c5db8812f959"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"b0c38716-36dc-4d83-9a57-1146e6140f50","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:28.1663688Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:28.1663688Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"ceac9e8f-2467-4776-b807-a2194cfee9d9"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"db08891a-1efa-445b-9ecc-5e48f81a4263","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:29.7643856Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:29.7643856Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"25ed9199-11bc-4e6d-bc69-b095b9917c66","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:30.6167587Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:30.6167587Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"5ee1f430-d5e9-419a-b797-126befd49610"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"da5a58bb-ecd3-42b6-afe8-2fee66b42b3a"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"908507af-a0c2-4f10-86fd-85d5486e9ddc","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:33.1063079Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:33.1063079Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"58657940-7ead-45d4-87d3-33778bad9484"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"962513f8-b40f-4aa1-9cb6-2591131a2f21"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"7a899536-8351-449e-b40c-a70d24cf2538"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"8714a3f8-e08a-4c57-ac84-c6aaa03030f6","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:36.2780891Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:36.2780891Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"deae62ab-3d23-4f78-abae-99027095a605"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"22dd28d2-cfeb-4617-8f0b-9ec1274eced1","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:38.9480573Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:38.9480573Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"bba2e4c1-6419-473a-9d01-6ee87c87b994"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"fd98faf6-07b7-48b4-bb96-40b5458d2591"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"118a2209-27d4-44a7-b218-48d64b153396"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"2e05a38e-9168-4fe5-856d-f2ca5088fd42"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"cebfd733-b067-4f97-b201-e6fd10e0f0ea","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:42.7980395Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:42.7980395Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"db3fcb5b-7097-4a20-a9d4-77bf6a023194"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"fb2118fa-80bb-4d6f-bd33-92685c83f458","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:44.461676Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:44.461676Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"c69eb705-ba53-439e-afdb-3440c00b0257","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:45.2943757Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:45.2943757Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"12aff10a-4a92-4608-806f-d25efcbdeef4"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"87aeb8c5-7da9-4792-b13a-8e187af4008c"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"d80666a5-31c2-453a-9eb0-411d9b611c43"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"fbd6b8a5-ea2e-4b28-a452-ee02a94a4d4d","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:48.6359925Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:48.6359925Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"962f3a1a-5d63-411a-a177-9d54aea68cc2"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"a7025b31-faf2-4134-a3f8-b771c0bfc7ac"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"f94afdd9-88f7-492d-b076-08a4cda693d5","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:50.9390712Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:50.9390712Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"344ced9d-2623-4360-8e90-3ec069e52ef1"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6d6fda35-bfdf-4d4b-8f65-47257e71c11e"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"af5516b2-8cf7-4a6c-823c-bed14679f799"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"0de69fc4-1582-419e-bcaa-e0ca51421a44"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"eb6e60f1-c2cc-4cdd-af2d-2dfd0ada22c4"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"06b3f2d2-f58c-4fd8-979f-46d6e886ca44"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"bfa21a04-dc8c-4e7b-b316-d756e6cfadd5"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"d016d576-7bea-4765-a24e-c0345c71b3a2","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:02:57.4051752Z","lastUpdateDateTimeUtc":"2022-07-19T07:02:57.4051752Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"3c765ec0-09b9-409f-b53e-19390c0c1ac5"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"717dd60c-fdd3-4961-9f21-e69a10addf4a"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"12cb497d-0cfb-427a-a9e3-e70cd61c0fb2","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:00.0927748Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:00.0927748Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"adcb44b1-5433-4205-ab47-6447b98bdf59"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6b6dc510-3726-4cc6-8241-ae0a8d8336c7"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"c5319931-6c13-41fd-ae10-8c27080be22e"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"c48c5945-9488-4fa3-bb89-a1fb2a7c45c0","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:03.3058027Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:03.3058027Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"44215d9a-829d-4255-b1d5-4f8f7197423e","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:04.1302749Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:04.1302749Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"5a58a7c8-7e33-45c0-b628-8363360be072"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"12c6f216-9b6d-407d-a784-675a911a9c94","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:05.7394943Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:05.7394943Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"c12587a1-d9f4-4586-99e7-93836c9a130d","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:06.652752Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:06.652752Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"ec3b9223-63fd-47e4-90d6-a8371803e449","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:07.489922Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:07.489922Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"c97a2a09-fff4-4b90-a67d-a49102eb80e8"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"4c8aa607-943b-43db-a14b-17ba1d3707f8"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"7b33e990-66da-44dc-9b79-314d71d1d48f"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"e9cc6f5d-1796-4ade-ab49-16ca13f35f6e","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:10.640606Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:10.640606Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"ab862d99-db7e-4e34-a7e7-6fa76f34e64f","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:11.5029271Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:11.5029271Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"5894c862-fe11-4b27-9173-67065bb1bf60"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"0ef57513-9a19-4ff8-a238-52b08baf535e","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:13.1510248Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:13.1510248Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"1754882b-2613-4e6d-98aa-0a6699a46c3e"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"3d6d1862-ff4f-4607-824d-d0ecf852d5f4"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"fc209ace-7f67-42e6-93cf-95ca4e1b0a9f"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"1de32eeb-382c-4f3a-afdb-e6d293808d64","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:16.2900796Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:16.2900796Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"bf3c2b84-6bc6-4e11-9c58-a8189409c81a","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:17.2096266Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:17.2096266Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"7d0843d0-df31-4fd4-addc-5b625f9c2850"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"04bf565c-1931-479f-ad23-d820059c2af9"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"0a8b1020-f1b1-4735-9848-cce819d0b5b8"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"c6d49f9a-11b3-4fbf-9f75-5b2f6831c08d"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"59a97663-d855-48d6-be65-f58a22712a21"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"efe9973b-3875-48e0-8498-0e48057eb5e4"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"7e5a841a-5f28-4244-a93f-c5df7965f733"}}
+400
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"00246801-00eb-49a8-a584-ad12ed787046"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"7261ea0d-b401-4719-b191-8bdc6a451693","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:24.5711105Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:24.5711105Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
+{"error":{"code":"OsPlatformNotSupported","message":"Unsupported OS platform","target":"6f421059-d181-4eb0-9f1a-0718db84d79f"}}
+400
+{"@odata.context":"https://api.securitycenter.microsoft.com/api/$metadata#MachineActions/$entity","id":"44a934c2-cbd9-4236-8805-8aa031b75271","type":"Offboard","title":null,"requestor":"7453a10e-aa11-4c49-b012-86eb0005e0bb","requestorComment":"Offboard 2022-07-14","status":"Pending","machineId":null,"computerDnsName":null,"creationDateTimeUtc":"2022-07-19T07:03:26.334453Z","lastUpdateDateTimeUtc":"2022-07-19T07:03:26.334453Z","cancellationRequestor":null,"cancellationComment":null,"cancellationDateTimeUtc":null,"errorHResult":0,"scope":null,"externalId":null,"requestSource":"PublicApi","relatedFileInfo":null,"commands":[],"troubleshootInfo":null}
+201
