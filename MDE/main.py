@@ -17,9 +17,9 @@ machines_url = "https://api.securitycenter.microsoft.com/api/machines"
 offboard_url = "https://api.securitycenter.microsoft.com/api/machines/{}/offboard"
 
 def GetToken():
-    tenantId = '09699c26-c01b-41ea-a9f7-262f877323be' # Paste your own tenant ID here
-    appId = '7453a10e-aa11-4c49-b012-86eb0005e0bb' # Paste your own app ID here
-    appSecret = 'JGd8Q~8UrHYiW5K.4P3wctx7HRddOSE9MgoCiaBP' # Paste your own app secret here
+    tenantId = '' # Paste your own tenant ID here
+    appId = '' # Paste your own app ID here
+    appSecret = '' # Paste your own app secret here
 
     url = "https://login.microsoftonline.com/%s/oauth2/token" % (tenantId)
 
